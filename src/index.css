@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.bg-hero-pattern {
+  background-image: url('https://via.placeholder.com/1920x1080');
+}
